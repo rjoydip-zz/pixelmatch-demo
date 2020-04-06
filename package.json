@@ -1,0 +1,17 @@
+{
+  "name": "pixelmatch-demo",
+  "version": "1.0.0",
+  "description": "Image comparing (pixel) using mapbox pixelmatch library",
+  "main": "index.js",
+  "scripts": {
+    "start": "node main.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": ["pixelmatch", "image compare", "image diff"],
+  "author": "rjoydip",
+  "license": "ISC",
+  "dependencies": {
+    "pixelmatch": "^5.1.0",
+    "pngjs": "^3.4.0"
+  }
+}
